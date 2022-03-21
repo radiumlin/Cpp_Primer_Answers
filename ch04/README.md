@@ -280,7 +280,7 @@ cout << sizeof(p)/sizeof(*p) << endl;
 
 * (a) (sizeof x) + y
 * (b) sizeof(p->mem[i])
-* (c) sizeof(a) < b
+* (c) (sizeof a) < b
 * (d) sizeof(f())
 
 ## 练习4.31
